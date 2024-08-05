@@ -6,7 +6,8 @@ Features :
 Addition,
 Subtraction,
 Multiplication,
-Division,
+Division
+
 Requirement:
 Java Development Kit (JDK) 8 or higher
 
